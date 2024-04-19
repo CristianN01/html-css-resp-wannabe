@@ -166,6 +166,7 @@ img {
         .why-us {
             /* background: #222222; */
             padding:3rem 0;
+            margin-bottom: 0rem;
         }
 }
     
@@ -225,5 +226,6 @@ img {
         .why-us {
             background: #222222;
             padding:3rem 0;
+            margin-bottom: 0rem;
         }
 }
